@@ -1,0 +1,33 @@
+{ "users": [
+    {
+        "name": "Frank",
+        "age": 22,
+        "email": "frank@abc.com"
+      },
+      {
+        "name": "Charlie",
+        "age": 22,
+        "email": "charlie@abc.com"
+      },
+    {
+        "name": "Johnson",
+        "age": 22,
+        "email": "johnson@abc.com"
+      },
+    {
+      "name": "Albert",
+      "age": 22,
+      "email": "albert@abc.com"
+    },
+    {
+      "name": "Alan Jones",
+      "age": 24,
+      "email": "aj@abc.com"
+    },
+    {
+      "name": "Andrew Scafe",
+      "age": 21,
+      "email": "as@abc.com"
+    }
+  ]
+}
